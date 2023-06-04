@@ -1,0 +1,32 @@
+body {
+    background-color: black !important;
+    color: #fff !important;
+}
+.card-text {
+    color: #fff;
+}
+.navbar{
+    position: absolute !important;
+    background: transparent !important;
+    width: 100%;
+    z-index: 10; /*superpone el nav*/
+}
+.navbar-brand {
+    color: #fff !important;
+}
+.nav-link {
+    color: #fff !important;
+}
+.img-ajuste {
+    height:  100vh; /*ajusta las imagenes del carrusel a la pantalla */
+}
+
+footer {
+    height: 50;
+}
+
+.logofooter {
+    font-size: 40px;
+}
+
+

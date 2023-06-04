@@ -1,0 +1,152 @@
+header {
+    background-color: #000F08;
+    width: 100%;
+    height: 73px;    
+}
+
+header h1{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    font-size: 50px;
+    color: #FFFFFF;    
+    text-align: center; 
+    padding-top: 8px;
+}
+    
+      
+    
+.hero {    
+    background-image: url("../img/bg-header.jpg");
+    background-position: center;
+    background-repeat: no-repeat; /*Para la imagen no se repita la imagen*/
+    background-size: cover;
+    width: 100%; /*ocupa el 100% del espacio*/
+    height: 800px;
+}
+
+
+/* seccion descripcion */
+
+.descripcion {
+    background-color: #000000;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    height: 348px;
+    width: 100%;
+    color: white;
+    
+}
+
+.descripcion .contenedor {
+    display: inline-block;
+}
+
+
+.descripcion .contenedor .articulo {
+    display: inline-block;
+    width: 475px;
+    height: 190px;
+    padding-left: 180px;
+    padding-right: 150px;
+    text-align: left;
+    padding-top: 45px;
+
+        
+}
+
+.descripcion .contenedor .articulo p{
+    margin: 0 0 15px 0;
+    display: inline-block;
+}
+
+.imagen1 {
+     float: right;
+}
+
+.imagen1 img{
+    width: 399px;
+    height: 237px;
+    margin-top: 40px;
+
+} 
+
+
+
+
+/* seccion caracteristicas */
+
+.caracteristicas {
+    background-color: #1E1A13;
+    font-family: 'Raleway', sans-serif;   
+    width: 100%;
+    height: 348px;
+    display: inline-block;
+    
+}
+
+.titulo {
+    color: white;
+    font-weight: 500;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 75px;
+    padding-bottom: 30px;
+}
+
+
+.logo  {
+    display: inline-block;
+    margin-left: 290px; 
+       
+}
+
+.contenedor p {
+    padding-top: 24px;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+    
+}
+
+
+
+/* 3 imagenes */
+
+.imagenes {
+    background-color: #000000;
+    width: 100%;
+    height: 348px;  
+}
+
+.fotos img {
+    width: 316px;
+    height: 202px;
+    padding-top: 70px;
+    padding-left: 10px;
+    margin-left: 120px;   
+
+} 
+
+
+/* footer */
+
+footer {
+    background-color: #1E1A13;
+    width: 100%;
+    height: 102px;
+}
+ 
+footer p {
+    font-family: 'Raleway', sans-serif;   
+    font-weight: 300;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    text-decoration: none;
+}
+
+footer a {
+    text-decoration: none;
+}

@@ -1,0 +1,65 @@
+
+
+.icono {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 40px;
+}
+
+.textnav li a {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+.descripcion {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 15pt;
+    color: #212529;
+}
+
+.titulo {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 13pt;
+    color: #707070;
+    margin-bottom: 0;
+}
+
+.direccion {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 10pt;
+    color: #707070;
+    
+}
+
+.precio1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 13pt;
+    color: #707070;
+}
+
+.precio2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 17pt;
+    color: #28A745;
+}
+
+.horizontal p {
+    display: inline-block;    
+}
+
+.linea {
+    border-top: 1px solid #707070A0
+}
+
+.formulario {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 17pt;
+    color: white;
+}
